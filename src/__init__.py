@@ -1,1 +1,0 @@
-from WikiReader import WikiReader
