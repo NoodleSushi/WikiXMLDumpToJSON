@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-  name = 'WikiParser',
+  name = 'WikiTools',
   packages = ['src'],
   version = '1.0',
   install_requires=[
